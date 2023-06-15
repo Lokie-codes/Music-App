@@ -43,7 +43,7 @@ To get started with the Music App, follow these steps:
 
 1. Clone the repository:
 ```
-git clone 
+git clone https://github.com/Lokie-codes/Music-App.git
 ```
 Following instructions work on Linux OS environments.
 2. Create Virtual Environment
